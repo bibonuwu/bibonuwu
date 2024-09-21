@@ -1,3 +1,3 @@
 <div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=kotlin,firebase,cs,arduino,ruby,unreal)]([https://skillicons.dev](https://www.youtube.com/@abekenaibek))
+  [![My Skills](https://skillicons.dev/icons?i=kotlin,firebase,cs,arduino,ruby,unreal)]([https://skillicons.dev](https://www.youtube.com/@abekenaibek)
 </div>
